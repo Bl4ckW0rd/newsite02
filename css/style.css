@@ -1,0 +1,22 @@
+@font-face {
+  font-family: UnifrakturMaguntia;
+  src: url(../fonts/UnifrakturMaguntia/UnifrakturMaguntia-Regular.ttf);
+}
+
+.logo{
+  font-family: UnifrakturMaguntia;
+  font-size: 4rem;
+  color: var(--bs-pink);
+}
+
+.pint-icon{
+  color: brown;
+}
+
+.fb-icon{
+  color: blue;
+}
+
+.insta-icon{
+  color: blueviolet;
+}
