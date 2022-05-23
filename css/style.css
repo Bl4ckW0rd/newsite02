@@ -1,22 +1,11 @@
 @font-face {
-  font-family: UnifrakturMaguntia;
-  src: url(../fonts/UnifrakturMaguntia/UnifrakturMaguntia-Regular.ttf);
+  font-family: Newsreader;
+  src: url(../fonts/Newsreader/Newsreader-Italic-VariableFont_opsz\,wght.ttf);
 }
 
 .logo{
-  font-family: UnifrakturMaguntia;
+  font-family: Newsreader;
   font-size: 4rem;
   color: var(--bs-pink);
 }
 
-.pint-icon{
-  color: brown;
-}
-
-.fb-icon{
-  color: blue;
-}
-
-.insta-icon{
-  color: blueviolet;
-}
