@@ -1,11 +1,18 @@
 @font-face {
-  font-family: Newsreader;
-  src: url(../fonts/Newsreader/Newsreader-Italic-VariableFont_opsz\,wght.ttf);
-}
+  font-family: StarJedi;
+  src: url(../fonts/star_jedi/Starjedi.ttf);
 
+}
+.fa-solid{
+  color: #2B1006;
+}
 .logo{
-  font-family: Newsreader;
+  font-family: StarJedi;
   font-size: 4rem;
-  color: var(--bs-pink);
+  color: #413f3e;
 }
 
+.carousel-caption{
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 30px;
+}
