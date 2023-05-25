@@ -1,3 +1,6 @@
-Simple website using Bootstrap
+#Website made using bootstrap
 
-For Internet's Application Program
+Game Arcade website model
+
+For Internet Application's Program
+
